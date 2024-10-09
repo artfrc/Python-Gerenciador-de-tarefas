@@ -47,8 +47,6 @@ def deletar_tarefas_completadas(tarefas):
   
   return
   
-
-
 tarefas = []
 
 while True:
